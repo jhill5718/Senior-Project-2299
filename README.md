@@ -1,10 +1,12 @@
-This is our Senior Design Project for Group 2299, Wire & Code
+# Senior Design Project - PCB Quality Checker
+## Team 2299 - Wire & Code
+This is our Senior Design Project for Group 2299, Wire & Code.
 
-Rizwan Mohammed - Team Leader/Hardware Development
-Ayush Mundra - Hardware Development
-James Hill - Software Development
-Mohammad Chaaban - Scribe/Hardware Development
-Ammar Mohammed - Software Development
-Isaac Kadari - Hardware Development/SPOC
+Rizwan Mohammed - Team Leader/Hardware Development<br>
+Ayush Mundra - Hardware Development<br>
+James Hill - Software Development<br>
+Mohammad Chaaban - Scribe/Hardware Development<br>
+Ammar Mohammed - Software Development<br>
+Isaac Kadari - Hardware Development/SPOC<br>
 
 Our product is a quality checker for PCBs that primarily uses a camera to scan for faults.
