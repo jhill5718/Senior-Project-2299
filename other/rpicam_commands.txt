@@ -1,0 +1,4 @@
+rpicam-hello //SUCCESS
+rpicam-still -o image_test.jpg
+rpicam-vid
+rpicam-hello -t 0

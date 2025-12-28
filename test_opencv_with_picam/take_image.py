@@ -3,8 +3,8 @@ from picamera2 import Picamera2
 import numpy as np
 from libcamera import controls
 
-height = 480
-width = 640
+height = 2592 #480
+width = 4608 # 640
 cam = Picamera2()
 cam.configure(cam.create_video_configuration(main={"format": 'XRGB8888', "size": (width, height)}))
 cam.set_controls({"AfMode": controls.AfModeEnum.Continuous})

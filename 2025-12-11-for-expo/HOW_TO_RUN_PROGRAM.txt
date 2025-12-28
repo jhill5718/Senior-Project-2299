@@ -1,0 +1,16 @@
+12/11/2025
+Here is how to run the PCB checker.
+On the Desktop, double-click "launch_pcb_checker"
+You will be prompted with a window, select the "Execute in terminal" button.
+
+Now, the program is up and running!
+For the first four seconds, there will be instructions on what buttons to press.
+Then the Camera View will launch.
+NOTE: If the camera view is too large and glitchy, double-click the top bar.
+	- This will fit the window to view
+
+CONTROLS:
+Press "g" to take image of golden board.
+Press "t" to take image of test board.
+Press "a" to compare the two images.
+Press "q" to exit.

@@ -1,0 +1,11 @@
+[0:00:32.317948609] [1633]  INFO Camera camera_manager.cpp:340 libcamera v0.6.0+rpt20251202
+[0:00:32.327280387] [1636]  INFO RPI pisp.cpp:720 libpisp version 1.3.0
+[0:00:32.328062424] [1636]  WARN CameraSensorProperties camera_sensor_properties.cpp:548 No static properties available for 'imx708_noir'
+[0:00:32.328074924] [1636]  WARN CameraSensorProperties camera_sensor_properties.cpp:550 Please consider updating the camera sensor properties database
+[0:00:32.329766535] [1636]  INFO IPAProxy ipa_proxy.cpp:180 Using tuning file /usr/share/libcamera/ipa/rpi/pisp/imx708_noir.json
+[0:00:32.336176646] [1636]  WARN CameraSensor camera_sensor_legacy.cpp:502 'imx708_noir': No sensor delays found in static properties. Assuming unverified defaults.
+[0:00:32.336583313] [1636]  INFO Camera camera_manager.cpp:223 Adding camera '/base/axi/pcie@1000120000/rp1/i2c@88000/imx708@1a' for pipeline handler rpi/pisp
+[0:00:32.336600313] [1636]  INFO RPI pisp.cpp:1181 Registered camera /base/axi/pcie@1000120000/rp1/i2c@88000/imx708@1a to CFE device /dev/media3 and ISP device /dev/media0 using PiSP variant BCM2712_D0
+
+(python3:1633): GLib-GObject-CRITICAL **: 20:04:58.194: g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
